@@ -21,4 +21,6 @@ while time <= 0:
 
 total = principle * pow((1 + rate / 100), time)
 
+#yaaa firsst time seeing the form
+
 print(f" balance after {time} years is {total} :")
