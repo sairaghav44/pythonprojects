@@ -8,19 +8,21 @@ This repository is basically my Python learning ground, where I experiment with 
 
 Some of the projects and exercises currently in this repository:
 
-- 🧮 Calculator
-- 🎲 Dice Roller
-- 🎮 Rock Paper Scissors
-- 🎮 Quiz Game
-- 🔢 Number Guessing Game
-- 🛒 Shopping Cart
-- 🌡️ Temperature Converter
-- ⚖️ Weight Converter
-- ⏱️ Timer
-- 💰 Compound Interest Calculator
-- 🔢 Number Pad
-- 👤 Username exercises
-- 🛍️ Online Ordering practice
+-  Calculator
+-  calculator v02
+-  Dice Roller
+-  Rock Paper Scissors
+-  Quiz Game
+-  Number Guessing Game
+-  Shopping Cart
+-  Temperature Converter
+-  Weight Converter
+-  Timer
+-  Compound Interest Calculator
+-  Number Pad
+-  Username exercises
+-  Online Ordering practice
+-  expense tracker v01
 - And other small Python exercises
 
 ## 🛠️ Built With
@@ -67,7 +69,7 @@ After getting comfortable with Python fundamentals, I'm moving toward larger pro
 
 ## ^_* Thanks for Checking It Out
 
-If you actually opened this repo, thanks bro :p🥀🌹
+If you actually opened this repo, thanks bro :p🌹
 
 This is basically my Python learning archive.
 
@@ -75,7 +77,7 @@ Most of these are small exercises, but they're part of the process of going from
 
 **"I don't know Python" → "I can actually build things with it."** 🗿
 
-Still learning, still building, still breaking things and fixing them.
+Still learning, breaking shi.
 
 Appreciate you checking it out. 🐍💻
 
