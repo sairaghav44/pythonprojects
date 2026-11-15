@@ -22,7 +22,7 @@ Some of the projects and exercises currently in this repository:
 -  Number Pad
 -  Username exercises
 -  Online Ordering practice
--  expense tracker v01
+-  expense tracker v01 (Roadmap.sh challenge: https://roadmap.sh/projects/expense-tracker)
 - And other small Python exercises
 
 ## 🛠️ Built With
